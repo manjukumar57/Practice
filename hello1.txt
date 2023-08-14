@@ -1,1 +1,2 @@
 Hi this is manju and this is the first file to be commited
+adding a new branch for performing merge operation
